@@ -5,7 +5,7 @@ import styles from "@/styles/landingpage/HeroSection.module.scss";
 const HeroSection = () => {
   return (
     <div className={styles.containerHero}>
-      HeroSection
+      HeroSection this is the herosection
     </div>
   );
 };
